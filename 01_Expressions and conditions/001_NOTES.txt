@@ -17,5 +17,27 @@
   /=         x = x / y      
   %=         x = x % y      
   **=         x = x ** y  
+
+3. Comparison Operators
+
+  ==         equal to
+  !=         not equal to 
+  ===        equal to(value and type equality)
+  !==        not equal to (Value or type inequalit)
+  >          greater than
+  <          less than
+  <=         less than or equal to
+  >=         greater than or equal to
+
+4. Logical Operators: 
+  
+  &&         Logical and
+  ||         Logical OR 
+  !          Logical NOT 
+
+5. Typeof Operator
+  typeof()    returns a string that represents the data type of a variable.
+
+  
   
       
