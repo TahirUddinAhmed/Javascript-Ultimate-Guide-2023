@@ -1,0 +1,21 @@
+
+1. Arithmetic Operators
+   +         Addition
+   -         subtraction
+   *         multiplication
+   /         division
+  **         exponentiation
+   %         modulus
+  ++         increment
+  --         decrement
+
+2. Assignment Operators
+  =          x = y
+  +=         x = x + y
+  -=         x = x - y      
+  *=         x = x * y      
+  /=         x = x / y      
+  %=         x = x % y      
+  **=         x = x ** y  
+  
+      
