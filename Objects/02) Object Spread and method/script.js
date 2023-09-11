@@ -20,7 +20,6 @@ const person = {
 // accessing nested properties 
 console.log(person.addr.cordinate.lng);
 
-
 const obj1 = {a: 2, b: 3};
 const obj2 = {c: 5, d: 1};
 
