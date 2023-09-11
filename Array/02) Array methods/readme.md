@@ -31,4 +31,4 @@ arr.shift();
 ```
 
 Get Example Code 
-- [click](#script.js)
+- [click](script.js)
