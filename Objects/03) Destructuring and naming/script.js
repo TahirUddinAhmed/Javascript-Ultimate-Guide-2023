@@ -11,7 +11,9 @@ const person = {
     firstName,
     lastName,
     age
-}
+};
+
+// console.log(person);
 
 // destructuring
 const todo = {
@@ -29,9 +31,11 @@ const {
 } = todo;
 
 
+
+
 // destructure arrays
-const numbers = [23, 12, 4, 89, 11];
+const numbers = [23, 12, 4, 89, 11, 33, 42];
 
 const [first, second, ...rest] = numbers;
 
-console.log(first, second, rest)
+console.log(first, second, ...rest);
