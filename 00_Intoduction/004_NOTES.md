@@ -28,3 +28,12 @@ There are 7 types of primitive data types:
   }
 ```
 Practise Questions: write a js program to store name, phone number, and marks of a student using objects.
+
+
+```javascript
+const store = {
+  'store_name': "Giftify Creation",
+  'phone': 9365910717,
+  'marks': 86,
+}
+```
