@@ -1,4 +1,4 @@
-Primitive data types
+## Primitive data types
 
 Primitive data type are a set of basic data types in javascript.
 There are 7 types of primitive data types: 
@@ -10,12 +10,13 @@ There are 7 types of primitive data types:
     6. Symbol 
     7. Undefined
 
-Non-primitive Data types - Objects
+## Non-primitive Data types - Objects
  Objects are collections of key-value pairs, where the keys are strings(or symbols)
  and the values can be any data type, including other objects,
 
  e.g 
-  let person = {
+```javascript
+ let person = {
     "name" : 'John',
     "age" : 30,
     "esEmployed" : true,
@@ -25,6 +26,5 @@ Non-primitive Data types - Objects
     }
 
   }
-
-
+```
 Practise Questions: write a js program to store name, phone number, and marks of a student using objects.
