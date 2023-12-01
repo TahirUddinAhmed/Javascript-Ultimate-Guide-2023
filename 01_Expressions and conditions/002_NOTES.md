@@ -1,4 +1,4 @@
-Conditional Statements in JS
+# Conditional Statements in JS
   Sometimes we might have to execute a block of code based on a specified condition.
   for example, a prompt might be ask for the age of the user and if its greater than 18 display a message.
 
