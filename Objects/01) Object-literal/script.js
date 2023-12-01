@@ -32,3 +32,10 @@ delete person.age;
 person.hasChild = true;
 
 console.log(person);
+
+// function 
+person.greet = function() {
+    console.log("Hello, I am Tahir");
+}
+
+person.greet();
