@@ -1,14 +1,15 @@
+# Operators
 In JavaScript, operators are symbols or keywords used to perform various operations on values or variables. JavaScript supports a wide range of operators that can be categorized into different types based on their functionality. Here are the main types of operators in JavaScript:
 
-1. Arithmetic Operators
-   +         Addition
-   -         subtraction
-   *         multiplication
-   /         division
-  **         exponentiation
-   %         modulus
-  ++         increment
-  --         decrement
+1. Arithmetic Operators <br>
+   `+`   Addition <br>
+   `-`   subtraction <br>
+   `*`   multiplication <br>
+   `/`   division <br>
+  `**`   exponentiation <br>
+   `%`  modulus <br>
+  `++`   increment <br>
+  `--`   decrement
 
 2. Assignment Operators
   =          x = y
