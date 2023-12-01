@@ -4,22 +4,22 @@ const berries = ['strawberry', 'blueberry', 'rasberry'];
 // nesting array
 // fruits.push(berries);
 
-console.log(fruits);
+// console.log(fruits);
 
 const n = [1, 4, 6, [11, 33, 22]];
 
 // access nested array elements
-console.log(n[3][1]);
+// console.log(n[3][1]);
 
 // concat array
 let allFruits = fruits.concat(berries);
 
-console.log(allFruits);
+// console.log(allFruits);
 
 // Spread Operator (...)
 let x = [...fruits, ...berries]; // concat
 x = [...fruits, berries]; // nesting
-console.log(x);
+// console.log(x);
 
 // Flatten array
 let arr = [1, 2, [3, 5], 8, [4, 6], 9];
